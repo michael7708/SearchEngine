@@ -1,0 +1,3 @@
+infoflow testpage 
+basic html 
+basic

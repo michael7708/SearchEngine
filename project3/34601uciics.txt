@@ -1,0 +1,32 @@
+link?ping univ dept mathematics 
+link?ping univ dept mathematics 
+link
+ping
+univ
+dept
+mathematics
+581
+83
+link
+ping
+sweden
+affiliation
+svante
+linussonjohan
+thapper
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

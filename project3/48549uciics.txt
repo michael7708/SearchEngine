@@ -1,0 +1,25 @@
+collection classes final issues 
+
+lectureindex
+introduction
+collections
+class
+hashing
+hashcode
+methods
+mutation
+hashing
+reading
+java
+classes
+generics
+java
+1
+5
+problem
+set
+course
+home
+page
+richard
+pattis

@@ -1,0 +1,33 @@
+city college new york dept mathematics 
+city college new york dept mathematics 
+city
+college
+new
+york
+dept
+mathematics
+new
+york
+ny
+10031
+usa
+affiliation
+jacob
+goodmanxiaohan
+huang
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

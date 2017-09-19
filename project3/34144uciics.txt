@@ -1,0 +1,36 @@
+proc int conf compilers architectures synthesis embedded systems 
+proc int conf compilers architectures synthesis embedded systems 
+proc
+int
+conf
+compilers
+architectures
+synthesis
+embedded
+systems
+power
+efficient
+encoding
+techniques
+chip
+data
+buses
+suragryan
+cases
+03
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

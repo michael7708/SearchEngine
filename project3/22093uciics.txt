@@ -1,0 +1,17 @@
+the raccoon project peer based data integration sharing 
+people 
+uci
+database
+group
+faculty
+chen
+li
+ph
+students
+jia
+li
+michal
+shmueli
+scheuer
+qi
+zhong

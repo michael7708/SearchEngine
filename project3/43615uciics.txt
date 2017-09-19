@@ -1,0 +1,20 @@
+index repos pe 
+parent directory 
+index
+repos
+pe
+namelast
+modifiedsizetypeparent
+directory
+directoryuaicomp06
+2008
+apr
+25
+10
+43
+51
+directory
+lighttpd
+1
+4
+19

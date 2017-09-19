@@ -1,0 +1,8 @@
+uci game lab 
+v3 slide0009 htm 
+proposed
+solutions
+evaluation
+generation
+modification
+construction

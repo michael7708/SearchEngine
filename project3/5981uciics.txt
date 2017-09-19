@@ -1,0 +1,36 @@
+index databases statlog segment 
+last modified 
+index
+databases
+statlog
+segment
+namelast
+modifiedsizedescriptionparent
+directory
+segment
+dat13
+feb
+1993
+00
+09
+360k
+segment
+doc04
+mar
+1993
+23
+13
+2
+4k
+apache
+2
+2
+15
+centos
+server
+mlearn
+ics
+uci
+edu
+port
+80

@@ -1,0 +1,21 @@
+index pub chimera dtd 
+http www ics uci edu pub chimera dtd 
+index
+pub
+chimera
+dtd
+namelast
+modifiedsizedescriptionparent
+directory
+apache
+2
+2
+15
+centos
+server
+ftp
+ics
+uci
+edu
+port
+80

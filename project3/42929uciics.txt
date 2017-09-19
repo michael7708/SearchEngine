@@ -1,0 +1,27 @@
+model classes mvc pattern 
+
+lectureindex
+introduction
+mvc
+pattern
+color
+calculator
+package
+access
+model
+definitions
+model
+debugging
+bouncing
+balls
+model
+definitions
+writing
+models
+problem
+set
+course
+home
+page
+richard
+pattis

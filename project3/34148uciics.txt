@@ -1,0 +1,35 @@
+proc int conf high performance computing networking hpcn 1996 
+proc int conf high performance computing networking hpcn 1996 
+proc
+int
+conf
+high
+performance
+computing
+networking
+hpcn
+1996
+padfem
+portable
+parallel
+fem
+tool
+diedraneu
+hpcn
+96
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,28 @@
+uci game lab 
+v3 slide0008 htm 
+proposed
+solutions
+evaluation
+generation
+alternative
+high
+level
+approach
+architectural
+scalability
+design
+platform
+parameterization
+can
+open
+source
+community
+based
+faster
+better
+cheaper
+vs
+current
+fun
+intrinsically
+motivating

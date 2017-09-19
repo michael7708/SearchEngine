@@ -1,0 +1,25 @@
+modalities usefulnes htm 
+
+usefulness
+different
+modalities
+synchronous
+cscw
+audio
+onlyaudio
+shared
+objectsaudio
+video1
+1
+conferencing
+multiparty
+physical
+meeting
+remote
+members
+0
+multiparty
+remote
+meeting
+peripheral
+awareness

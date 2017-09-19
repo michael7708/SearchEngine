@@ -1,0 +1,36 @@
+proc 42nd conf decision control 
+proc 42nd conf decision control 
+proc
+42nd
+conf
+decision
+control
+multiple
+uav
+cooperative
+search
+collision
+avoidance
+limited
+range
+communication
+constraints
+beamcl
+cdc
+03
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

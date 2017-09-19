@@ -1,0 +1,31 @@
+index wmt courses ics5 w13 
+ics5 w13 
+index
+wmt
+courses
+ics5
+w13
+namelast
+modifiedsizedescriptionparent
+directory
+country
+explorer
+html29
+dec
+2012
+11
+46
+8
+1k
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

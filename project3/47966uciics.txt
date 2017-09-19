@@ -1,0 +1,34 @@
+b348 s0235 
+b348 s0235 
+b348
+s0235
+2
+gliders
+listed
+glider
+17251
+size
+23x17
+speed
+2
+orthogonalglider
+21644
+size
+127x18
+speed
+2
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

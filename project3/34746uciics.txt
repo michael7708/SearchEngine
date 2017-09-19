@@ -1,0 +1,32 @@
+silesian univ inst chemistry 
+silesian univ inst chemistry 
+silesian
+univ
+inst
+chemistry
+9
+szkolna
+st
+40
+006
+katowice
+poland
+affiliation
+kaczmarekb
+walczak
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,30 @@
+index yyang8 research poseset 
+last modified 
+index
+yyang8
+research
+poseset
+namelast
+modifiedsizedescriptionparent
+directory
+pascal
+highres
+tgz11
+jan
+2013
+17
+56
+1
+6g
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

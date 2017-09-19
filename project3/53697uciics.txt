@@ -1,0 +1,30 @@
+uci game lab 
+slide0010 htm 
+approach
+investigate
+development
+use
+meta
+environments
+new
+game
+domains
+support
+generation
+modification
+construction
+techniques
+tools
+target
+non
+traditional
+game
+domains
+relevant
+artists
+scientists
+humanists
+software
+developers
+gamers
+etc

@@ -1,0 +1,29 @@
+sli classes 2008f edit 
+classes 2008f 
+classes
+group
+research
+publications
+code
+login
+classes
+2008f
+password
+required
+name
+password
+last
+modified
+september
+30
+2008
+10
+26
+bren
+school
+information
+computer
+science
+university
+california
+irvine

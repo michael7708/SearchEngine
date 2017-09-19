@@ -1,0 +1,28 @@
+replicators b0236 s1 
+b0236 s1 2c 4 diagonal replicator 
+replicators
+b0236
+s1
+b0236
+s1
+diagonal
+replicator
+formed
+diagonal
+pair
+cells
+repeats
+period
+4
+moving
+diagonally
+speed
+2
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

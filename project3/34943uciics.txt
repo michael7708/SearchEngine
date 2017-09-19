@@ -1,0 +1,33 @@
+univ bielefeld faculty technology 
+univ bielefeld faculty technology 
+univ
+bielefeld
+faculty
+technology
+box
+10
+01
+31
+33501
+bielefeld
+germany
+affiliation
+mohamed
+ibrahim
+abouelhoda
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

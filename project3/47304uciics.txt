@@ -1,0 +1,36 @@
+b34568 s04578 
+b34568 s04578 
+b34568
+s04578
+equivalent
+via
+black
+white
+reversal
+rule
+b2567
+s1678
+one
+glider
+listed
+glider
+21670
+size
+24x173
+speed
+3
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

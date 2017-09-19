@@ -1,0 +1,15 @@
+org hamcrest core junit api 
+org hamcrest core 
+org
+hamcrest
+core
+classes
+allof
+anyof
+describedas
+isanything
+isequal
+isinstanceof
+isnot
+isnull
+issame

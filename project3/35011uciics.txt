@@ -1,0 +1,36 @@
+univ library information science 
+univ library information science 
+univ
+library
+information
+science
+1
+2
+kasuga
+tsukuba
+shi
+ibaraki
+ken
+305
+japan
+affiliation
+shin
+ichi
+nakayamamasayuki
+yoshida
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

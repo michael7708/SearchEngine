@@ -1,0 +1,31 @@
+lappeenranta univ technology 
+lappeenranta univ technology 
+lappeenranta
+univ
+technology
+box
+20
+fin
+53851
+lappeenranta
+finland
+affiliation
+tuomo
+kauranneliisa
+torikka
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

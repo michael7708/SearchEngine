@@ -1,0 +1,24 @@
+replicators b02 s4 
+b02 s4 5c 10 replicator 
+replicators
+b02
+s4
+b02
+s4
+two
+cell
+5c
+10
+replicator
+pattern
+works
+many
+rules
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

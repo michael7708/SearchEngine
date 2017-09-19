@@ -1,0 +1,22 @@
+point lawrence beach 
+prev pt lawrence beach 
+prev
+orcas
+ferryup
+orcas
+seattlenext
+moran
+state
+parkprev
+beach
+glass
+beachpoint
+lawrence
+beachnext
+beach
+obstruction
+pass
+click
+picture
+larger
+copy

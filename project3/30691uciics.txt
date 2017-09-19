@@ -1,0 +1,34 @@
+b378 s012345678 
+b378 s012345678 
+b378
+s012345678
+equivalent
+via
+black
+white
+reversal
+rule
+s234678
+gliders
+can
+exist
+s0123
+trailing
+edge
+pattern
+can
+die
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

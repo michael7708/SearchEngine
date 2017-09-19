@@ -1,0 +1,9 @@
+uci game lab 
+slide0002 htm 
+overview
+research
+problems
+approach
+related
+efforts
+conclusions

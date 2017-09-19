@@ -1,0 +1,5 @@
+first order inductive learner 
+first order inductive learnerfoil quinlan 1990 
+slide
+14
+39

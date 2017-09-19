@@ -1,0 +1,37 @@
+mul 94 
+computational geometry an introduction randomized algorithms mul 94 
+mul
+94
+book
+mul
+94
+title
+computational
+geometry
+introduction
+randomized
+algorithms
+author
+ketan
+mulmuley
+publisher
+prentice
+hall
+year
+1994
+eppstein
+publications
+citation
+database
+publications
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,36 @@
+an algorithm compute bounds star discrepancy 
+an algorithm compute bounds star discrepancy 
+algorithm
+compute
+bounds
+star
+discrepancy
+eric
+thi
+mard
+complexity
+17
+4
+850
+880
+dec
+2001
+cites
+computing
+discrepancy
+eppstein
+publications
+citation
+database
+documents
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

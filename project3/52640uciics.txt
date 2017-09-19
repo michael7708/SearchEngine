@@ -1,0 +1,18 @@
+recursion linked lists 
+
+lectureindex
+introduction
+recursive
+accessors
+recursive
+mutators
+recursive
+methods
+collections
+problem
+set
+course
+home
+page
+richard
+pattis

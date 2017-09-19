@@ -1,0 +1,35 @@
+index databases housing 
+last modified 
+index
+databases
+housing
+namelast
+modifiedsizedescriptionparent
+directory
+housing
+data07
+jul
+1993
+22
+50
+48k
+housing
+names07
+jul
+1993
+22
+50
+2
+0k
+apache
+2
+2
+15
+centos
+server
+mlearn
+ics
+uci
+edu
+port
+80

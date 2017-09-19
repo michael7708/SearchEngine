@@ -1,0 +1,5 @@
+learning a1 xor a3 
+learning a1 xor a3 
+slide
+7
+23

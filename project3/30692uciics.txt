@@ -1,0 +1,37 @@
+b367 s2346 
+b367 s2346 
+b367
+s2346
+2
+gliders
+listed
+glider
+588
+size
+4x4
+speed
+4
+diagonal
+period
+4
+2glider
+2494
+size
+5x6
+speed
+2
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,21 @@
+longlife b345 s5 
+b345 s5 
+longlife
+b345
+s5
+gliders
+known
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,37 @@
+b s234678 
+b s234678 
+s234678
+equivalent
+via
+black
+white
+reversal
+rule
+b378
+s012345678
+gliders
+can
+exist
+without
+b2
+b3
+pattern
+can
+escape
+initial
+bounding
+box
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

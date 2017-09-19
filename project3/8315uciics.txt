@@ -1,0 +1,5 @@
+parameter tuning nynex max 
+parameter tuning nynex max minimizing misclassification costs 
+slide
+7
+39

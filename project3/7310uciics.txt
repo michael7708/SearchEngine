@@ -1,0 +1,4 @@
+infoflow testpage 
+inner html 
+basic
+textinhelpdiv

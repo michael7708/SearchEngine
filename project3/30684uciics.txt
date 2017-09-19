@@ -1,0 +1,34 @@
+b257 s27 
+b257 s27 
+b257
+s27
+2
+gliders
+listed
+glider
+230
+size
+4x3
+speed
+1
+orthogonalglider
+12524
+size
+14x6
+speed
+2
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

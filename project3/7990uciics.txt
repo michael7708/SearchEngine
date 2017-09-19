@@ -1,0 +1,23 @@
+new page 1 
+description 
+stock
+price
+series
+year
+1928
+year
+2007
+ge
+company
+obtained
+finance
+yahoo
+dataset
+data
+point
+open
+price
+working
+day
+historical
+record

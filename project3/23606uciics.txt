@@ -1,0 +1,24 @@
+the waterfall lifecycle model 
+
+waterfall
+lifecycle
+model
+waterfall
+lifecycle
+model
+reqts
+analysis
+design
+implementation
+testing
+maintenance
+previous
+slide
+next
+slide
+back
+first
+slide
+view
+graphic
+version

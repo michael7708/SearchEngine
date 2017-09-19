@@ -1,0 +1,30 @@
+a b dragut 
+a b dragut 
+dragut
+author
+editor
+reviewer
+heuristic
+allocation
+based
+dynamic
+programming
+state
+space
+representation
+eppstein
+publications
+citation
+database
+authors
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

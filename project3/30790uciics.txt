@@ -1,0 +1,21 @@
+replicators b02356 s34 
+b02356 s34 6c 12 diagonal replicator 
+replicators
+b02356
+s34
+b02356
+s34
+related
+rules
+6c
+12
+diagonal
+replicator
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

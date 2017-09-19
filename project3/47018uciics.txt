@@ -1,0 +1,28 @@
+index wmt courses scriptanalysisw06 
+last modified 
+index
+wmt
+courses
+scriptanalysisw06
+namelast
+modifiedsizedescriptionparent
+directory
+scriptanalysisw06syllabus
+html27
+feb
+2006
+14
+43
+37k
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

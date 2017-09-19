@@ -1,0 +1,35 @@
+proc int conf image processing icip 2000 
+proc int conf image processing icip 2000 
+proc
+int
+conf
+image
+processing
+icip
+2000
+adaptive
+contour
+sampling
+coding
+using
+skeleton
+curvature
+jaighamel
+icip
+00
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

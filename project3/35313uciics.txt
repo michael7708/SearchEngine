@@ -1,0 +1,36 @@
+akl 97 
+parallel computation models methods akl 97 
+akl
+97
+book
+akl
+97
+title
+parallel
+computation
+models
+methods
+author
+selim
+akl
+publisher
+prentice
+hall
+year
+1997
+eppstein
+publications
+citation
+database
+publications
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

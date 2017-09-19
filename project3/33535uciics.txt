@@ -1,0 +1,34 @@
+cmes? ?computer modeling engineering sciences 
+cmes? ?computer modeling engineering sciences 
+cmes
+computer
+modeling
+engineering
+sciences
+generate
+good
+triangular
+meshes
+conforming
+control
+spacing
+requirements
+litenwan
+cmes
+01
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

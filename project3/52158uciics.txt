@@ -1,0 +1,19 @@
+self referential classes linked objects 
+
+lectureindex
+introduction
+ln
+class
+traversing
+linked
+lists
+examples
+building
+lists
+problem
+set
+course
+home
+page
+richard
+pattis

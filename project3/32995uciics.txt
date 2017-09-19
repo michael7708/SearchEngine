@@ -1,0 +1,31 @@
+p j stuckey 
+p j stuckey 
+stuckey
+author
+editor
+reviewer
+proc
+7th
+int
+symp
+functional
+logic
+programming
+flops
+2004
+eppstein
+publications
+citation
+database
+authors
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

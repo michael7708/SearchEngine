@@ -1,0 +1,34 @@
+view terrace 
+next view terrace 
+prev
+geometric
+figuresup
+park
+ellnext
+arcade
+view
+terrace
+taken
+tuesday
+september
+11
+2001
+01
+04
+24pm
+original
+image
+size
+1600x1200
+985kb
+technical
+details
+olympus
+c700uz
+1
+80s
+f7
+0
+iso
+100
+89mm

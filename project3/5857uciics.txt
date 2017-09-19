@@ -1,0 +1,28 @@
+index smyth courses cs177 sessiondata 
+internet session data 
+index
+smyth
+courses
+cs177
+sessiondata
+namelast
+modifiedsizedescriptionparent
+directory
+sessionlengths15
+jan
+2007
+21
+05
+39k
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

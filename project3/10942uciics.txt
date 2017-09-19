@@ -1,0 +1,2 @@
+david eppstein publications 
+faster circle packing application nonobtuse triangulation 

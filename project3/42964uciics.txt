@@ -1,0 +1,26 @@
+abstact classes 
+
+lectureindex
+introduction
+definition
+using
+abstract
+classes
+faking
+abstract
+another
+example
+inheritance
+interfaces
+general
+comments
+abstract
+rules
+restated
+problem
+set
+course
+home
+page
+richard
+pattis

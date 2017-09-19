@@ -1,0 +1,36 @@
+wag 99 
+mathematica action wag 99 
+wag
+99
+book
+wag
+99
+title
+mathematica
+action
+author
+stan
+wagon
+publisher
+springer
+verlag
+year
+1999
+edition
+2nd
+eppstein
+publications
+citation
+database
+publications
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

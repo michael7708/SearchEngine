@@ -1,0 +1,17 @@
+graphs 
+
+lectureindex
+introduction
+tree
+terminology
+graph
+interface
+simple
+algorithms
+problem
+set
+course
+home
+page
+richard
+pattis

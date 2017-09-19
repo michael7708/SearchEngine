@@ -1,0 +1,33 @@
+harvard univ dept mathematics 
+harvard univ dept mathematics 
+harvard
+univ
+dept
+mathematics
+one
+oxford
+st
+cambridge
+ma
+02138
+usa
+affiliation
+shing
+tung
+yau
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

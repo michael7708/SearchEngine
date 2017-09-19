@@ -1,0 +1,31 @@
+ren? s renner 
+ren? s renner 
+ren
+renner
+author
+editor
+reviewer
+proc
+int
+conf
+computational
+sciences
+iccs
+2001
+part
+eppstein
+publications
+citation
+database
+authors
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

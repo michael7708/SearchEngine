@@ -1,0 +1,14 @@
+uci geocaching 
+course 1 
+uci
+geocaching
+search
+wayoints
+player
+name
+current
+time
+start
+clock
+end
+clock

@@ -1,0 +1,36 @@
+proc xiv cong int de ingenier?a gr?fica 
+proc xiv cong int de ingenier?a gr?fica 
+proc
+xiv
+cong
+int
+de
+ingenier
+gr
+fica
+geometric
+properties
+local
+refinement
+unstructured
+triangular
+meshes
+suaplacar
+iig
+02
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

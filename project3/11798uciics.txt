@@ -1,0 +1,26 @@
+index sforouza 
+name 
+index
+sforouza
+namelast
+modifiedsizedescriptionparent
+directory
+cs273a
+fall11
+10
+oct
+2011
+11
+25
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

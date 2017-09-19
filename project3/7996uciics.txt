@@ -1,0 +1,14 @@
+new page 1 
+description 
+synthetic
+time
+series
+generated
+random
+walk
+data
+point
+indicates
+position
+random
+trace

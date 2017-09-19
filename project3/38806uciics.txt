@@ -1,0 +1,34 @@
+no net polyhedra 
+no net polyhedra 
+net
+polyhedra
+branko
+gr
+nbaum
+geombinatorics
+11
+111
+114
+2002
+cites
+ununfoldable
+polyhedraununfoldable
+polyhedra
+convex
+faces
+eppstein
+publications
+citation
+database
+documents
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,2 @@
+self referential classes linked objects 
+linked lists 

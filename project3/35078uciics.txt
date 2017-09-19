@@ -1,0 +1,30 @@
+univ szeged dept informatics 
+univ szeged dept informatics 
+univ
+szeged
+dept
+informatics
+rp
+2
+6720
+szeged
+hungary
+affiliation
+imrehcs
+imreh
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

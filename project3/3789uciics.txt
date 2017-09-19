@@ -1,0 +1,19 @@
+index stauro 
+description 
+index
+stauro
+namelast
+modifiedsizedescriptionparent
+directory
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

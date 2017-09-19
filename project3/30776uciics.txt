@@ -1,0 +1,32 @@
+replicators b016 s12 
+b016 s12 6c 12 replicator 
+replicators
+b016
+s12
+b016
+s12
+6c
+12
+beehive
+shaped
+replicator
+copy
+replicator
+can
+perturbed
+make
+18c
+36
+spaceship
+related
+rule
+b01468
+s12
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

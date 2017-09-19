@@ -1,0 +1,30 @@
+index wscacchi papers kwms sawman 
+last modified 
+index
+wscacchi
+papers
+kwms
+sawman
+namelast
+modifiedsizedescriptionparent
+directory
+kwms
+sawman
+pdf12
+jul
+2000
+15
+33
+400k
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

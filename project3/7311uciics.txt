@@ -1,0 +1,3 @@
+infoflow testpage 
+setalttext html 
+basic

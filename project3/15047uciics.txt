@@ -1,0 +1,16 @@
+input output devices 
+i o devices 
+input
+output
+devices
+1
+output
+devices
+2
+input
+devices
+3
+requirements
+input
+output
+devices

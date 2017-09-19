@@ -1,0 +1,33 @@
+index develop yearbook2012 13 
+yearbook2012 13 
+index
+develop
+yearbook2012
+13
+namelast
+modifiedsizedescriptionparent
+directory
+edits
+11
+feb
+2013
+17
+19
+original
+11
+feb
+2013
+17
+19
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

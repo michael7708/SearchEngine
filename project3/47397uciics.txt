@@ -1,0 +1,34 @@
+b3457 s456 
+b3457 s456 
+b3457
+s456
+2
+gliders
+listed
+glider
+6801
+size
+8x8
+speed
+368
+diagonalglider
+10671
+size
+11x11
+speed
+245
+diagonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

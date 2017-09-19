@@ -1,0 +1,31 @@
+b36 s123 
+b36 s123 
+b36
+s123
+one
+glider
+listed
+glider
+21669
+size
+20x171
+speed
+2
+orthogonal
+period
+4
+2
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

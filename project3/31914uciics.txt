@@ -1,0 +1,30 @@
+b imreh 
+b imreh 
+imreh
+univ
+szeged
+dept
+informatics
+author
+editor
+reviewer
+directable
+nondeterministic
+trapped
+automata
+eppstein
+publications
+citation
+database
+authors
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

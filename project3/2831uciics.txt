@@ -1,0 +1,26 @@
+index databases contacts 
+last modified 
+index
+databases
+contacts
+namelast
+modifiedsizedescriptionparent
+directory
+gu27
+sep
+1990
+12
+45
+144
+apache
+2
+2
+15
+centos
+server
+mlearn
+ics
+uci
+edu
+port
+80

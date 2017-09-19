@@ -1,0 +1,35 @@
+theory seminar march 13 2009 
+external memory geometric data structures their parallelization 
+march
+13
+winter
+quarter
+2009
+thoery
+seminar
+1
+00pm
+253
+ics
+external
+memory
+geometric
+data
+structures
+parallelization
+nodari
+sitchinava
+uc
+irvine
+will
+present
+overview
+geometric
+data
+structures
+external
+memory
+model
+directions
+can
+parallelized

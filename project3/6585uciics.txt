@@ -1,0 +1,17 @@
+left hand menu column 
+
+home
+isg
+research
+group
+dsm
+research
+group
+biography
+publications
+teaching
+awards
+professional
+activities
+contact
+info

@@ -1,0 +1,35 @@
+on common substring alignment problem 
+on common substring alignment problem 
+common
+substring
+alignment
+problem
+gadi
+landau
+algorithms
+41
+2
+338
+359
+nov
+2001
+cites
+speeding
+dynamic
+programming
+eppstein
+publications
+citation
+database
+documents
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

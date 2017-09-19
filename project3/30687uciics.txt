@@ -1,0 +1,33 @@
+b137 s45678 
+b137 s45678 
+b137
+s45678
+equivalent
+via
+black
+white
+reversal
+rule
+b5678
+s023468
+gliders
+can
+exist
+b1
+pattern
+expands
+directions
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

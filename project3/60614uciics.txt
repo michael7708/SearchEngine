@@ -1,0 +1,25 @@
+teamware architecture 
+teamware architecture diagrams 
+overall
+architecture
+foundation
+level
+architecture
+system
+level
+architecture
+user
+level
+architecture
+arcadia
+project
+uci
+last
+modified
+fri
+dec
+9
+13
+04
+25
+1994

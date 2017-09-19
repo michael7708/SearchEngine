@@ -1,0 +1,18 @@
+special trees 
+
+lectureindex
+introduction
+heaps
+ary
+trees
+expression
+trees
+digital
+trees
+problem
+set
+course
+home
+page
+richard
+pattis

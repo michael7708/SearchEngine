@@ -1,0 +1,30 @@
+charless fowlkes uc berkeley computer vision group 
+neighborhood components analysis 
+index
+nca
+simple
+matlab
+implementation
+nips04
+paper
+titled
+neighbourhood
+components
+analysis
+jacob
+goldberger
+sam
+roweis
+geoff
+hinton
+ruslan
+salakhutdinov
+hopefully
+will
+useful
+something
+nca
+demo
+tar
+gz
+browse

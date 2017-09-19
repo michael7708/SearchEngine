@@ -1,0 +1,36 @@
+index databases magic 
+last modified 
+index
+databases
+magic
+namelast
+modifiedsizedescriptionparent
+directory
+magic04
+data21
+jun
+2007
+14
+54
+1
+4m
+magic04
+names22
+jun
+2007
+15
+49
+5
+4k
+apache
+2
+2
+15
+centos
+server
+mlearn
+ics
+uci
+edu
+port
+80

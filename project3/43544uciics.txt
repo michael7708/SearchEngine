@@ -1,0 +1,17 @@
+org itr rescue dataguard indexing 
+org itr rescue dataguard indexing 
+org
+itr
+rescue
+dataguard
+indexing
+interfaces
+iindex
+iremoteindexing
+classes
+fileparsingtable
+index
+indexqueryresult
+keywordentry
+keywordpointer
+keywordsindex

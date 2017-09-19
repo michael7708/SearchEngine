@@ -1,0 +1,27 @@
+comments teambugs 
+
+http
+sdcl
+ics
+uci
+edu
+software
+design
+collaboration
+laboratory
+sat
+26
+may
+2012
+02
+02
+51
+0000
+hourly
+1
+http
+wordpress
+org
+3
+1
+1

@@ -1,0 +1,10 @@
+
+
+http
+vcp
+ics
+uci
+edu
+index
+php
+gallery

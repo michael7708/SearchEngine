@@ -1,0 +1,5 @@
+learning parity 
+learning parity total 10 features 
+slide
+11
+23

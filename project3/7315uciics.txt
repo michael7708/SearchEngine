@@ -1,0 +1,3 @@
+infoflow testpage 
+setsrc2 html 
+basic

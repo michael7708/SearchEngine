@@ -1,0 +1,37 @@
+sha ecs 92 
+computational geometry sha ecs 92 
+sha
+ecs
+92
+incollection
+sha
+ecs
+92
+title
+computational
+geometry
+author
+micha
+sharir
+booktitle
+encyclopedia
+computer
+science
+year
+1992
+eppstein
+publications
+citation
+database
+publications
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

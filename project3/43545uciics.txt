@@ -1,0 +1,13 @@
+org itr rescue dataguard indexing parser 
+org itr rescue dataguard indexing parser 
+org
+itr
+rescue
+dataguard
+indexing
+parser
+interfaces
+iparser
+classes
+likequeryutils
+textextractorfromtxt

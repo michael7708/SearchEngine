@@ -1,0 +1,21 @@
+cellular automaton rules 
+rules 
+cellular
+automaton
+rules
+012345678birth
+live
+neighborssurvival
+live
+neighbors
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

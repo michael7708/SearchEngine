@@ -1,0 +1,25 @@
+collection classes basics including iterators 
+
+lectureindex
+introduction
+collections
+design
+interfaces
+abstract
+classes
+concrete
+classes
+simple
+example
+iterators
+inner
+classes
+concurrent
+changes
+problem
+set
+course
+home
+page
+richard
+pattis

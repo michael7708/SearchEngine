@@ -1,0 +1,2 @@
+amrm homepage 
+adaptive memory reconfiguration management 

@@ -1,0 +1,34 @@
+b245 s2 
+b245 s2 
+b245
+s2
+2
+gliders
+listed
+glider
+230
+size
+4x3
+speed
+1
+orthogonalglider
+16323
+size
+20x20
+speed
+1
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,28 @@
+b24 s02 
+b24 s02 
+b24
+s02
+one
+glider
+listed
+glider
+953
+size
+3x5
+speed
+11
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

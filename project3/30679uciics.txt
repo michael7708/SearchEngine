@@ -1,0 +1,28 @@
+b3 s256 
+b3 s256 
+b3
+s256
+one
+glider
+listed
+glider
+16955
+size
+18x22
+speed
+3
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

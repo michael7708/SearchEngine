@@ -1,0 +1,30 @@
+proc siggraph '98 
+proc siggraph '98 
+proc
+siggraph
+'98
+new
+voronoi
+based
+surface
+reconstruction
+algorithm
+ameberkam
+siggraph
+98
+eppstein
+publications
+citation
+database
+locations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

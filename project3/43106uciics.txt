@@ -1,0 +1,23 @@
+index bic os franklin vti cnf 
+vti cnf 
+index
+bic
+os
+franklin
+vti
+cnf
+namelast
+modifiedsizedescriptionparent
+directory
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

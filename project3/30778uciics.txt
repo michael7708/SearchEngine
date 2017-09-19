@@ -1,0 +1,18 @@
+replicators b017 s016 
+b017 s016 3c 4 replicator 
+replicators
+b017
+s016
+b017
+s016
+3c
+4
+replicator
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

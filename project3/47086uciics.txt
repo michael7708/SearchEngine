@@ -1,0 +1,34 @@
+maze b3 s12345 
+maze b3 s12345 
+maze
+b3
+s12345
+information
+rule
+see
+http
+www
+mirwoj
+opus
+chelm
+pl
+ca
+rullex
+life
+html
+gliders
+known
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

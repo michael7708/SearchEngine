@@ -1,0 +1,28 @@
+b3456 s457 
+b3456 s457 
+b3456
+s457
+one
+glider
+listed
+glider
+21679
+size
+18x203
+speed
+5
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

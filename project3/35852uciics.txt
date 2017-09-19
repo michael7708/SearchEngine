@@ -1,0 +1,37 @@
+croryt 94 
+text algorithms croryt 94 
+croryt
+94
+book
+croryt
+94
+title
+text
+algorithms
+author
+maxime
+crochemore
+wojciech
+rytter
+publisher
+oxford
+univ
+press
+year
+1994
+eppstein
+publications
+citation
+database
+publications
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/apache-mime4j-dom-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/tika-parsers-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/workspace/jar/crawler4j-3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

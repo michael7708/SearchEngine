@@ -1,0 +1,23 @@
+program construction debugging 
+
+lectureindex
+introduction
+iterative
+enhancement
+testing
+debugging
+debugging
+general
+syntax
+bugs
+execution
+bugs
+eclipse
+debugger
+problem
+set
+course
+home
+page
+richard
+pattis

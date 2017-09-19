@@ -1,0 +1,34 @@
+b0257 s234 
+b0257 s234 
+b0257
+s234
+equivalent
+rule
+b012378
+s02457
+one
+glider
+listed
+glider
+25
+size
+3x2
+speed
+2
+diagonal
+period
+4
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

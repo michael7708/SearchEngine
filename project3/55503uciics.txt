@@ -1,0 +1,6 @@
+
+cleanup sh 
+rm
+txt
+rm
+ix

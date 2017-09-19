@@ -1,0 +1,22 @@
+replicators b016 s123 
+b016 s123 6c 16 replicator 
+replicators
+b016
+s123
+b016
+s123
+6c
+16
+replicator
+consisting
+2x4
+block
+cells
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

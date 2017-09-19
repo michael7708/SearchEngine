@@ -1,0 +1,28 @@
+replicators b0235 s23 
+b0235 s23 4c 8 diagonal replicator 
+replicators
+b0235
+s23
+b0235
+s23
+diagonal
+replicator
+formed
+diagonal
+pair
+cells
+repeats
+period
+8
+moving
+diagonally
+speed
+2
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

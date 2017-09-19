@@ -1,0 +1,24 @@
+probabilistic classifiers 
+
+probabilistic
+classifiers
+naive
+bayesian
+classifier
+decision
+tree
+laplace
+estimate
+class
+given
+leaf
+previous
+slide
+next
+slide
+back
+first
+slide
+view
+graphic
+version

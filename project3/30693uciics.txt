@@ -1,0 +1,27 @@
+b018 s018 
+b018 s018 
+b018
+s018
+black
+white
+reversed
+version
+rule
+b123456
+s123456
+gliders
+known
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

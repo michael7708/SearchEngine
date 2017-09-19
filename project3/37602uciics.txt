@@ -1,0 +1,36 @@
+quasiconvex analysis multivariate recurrence equations backtracking algorithms 
+quasiconvex analysis multivariate recurrence equations backtracking algorithms 
+quasiconvex
+analysis
+multivariate
+recurrence
+equations
+backtracking
+algorithms
+david
+eppstein
+acm
+trans
+algorithms
+2
+4
+492
+509
+oct
+2006
+eppstein
+publications
+citation
+database
+documents
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

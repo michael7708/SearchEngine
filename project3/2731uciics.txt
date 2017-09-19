@@ -1,0 +1,26 @@
+index databases prodigy 
+name 
+index
+databases
+prodigy
+namelast
+modifiedsizedescriptionparent
+directory
+domains
+22
+feb
+1995
+15
+49
+apache
+2
+2
+15
+centos
+server
+mlearn
+ics
+uci
+edu
+port
+80

@@ -1,0 +1,34 @@
+on reset sequence length 
+on reset sequence length 
+reset
+sequence
+length
+david
+eppstein
+tech
+report
+cucs
+440
+89
+columbia
+univ
+computer
+science
+dept
+1989
+eppstein
+publications
+citation
+database
+documents
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

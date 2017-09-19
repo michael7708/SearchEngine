@@ -1,0 +1,18 @@
+coding style 
+
+lectureindex
+introduction
+style
+good
+names
+alignment
+locality
+comments
+miscellaneous
+problem
+set
+course
+home
+page
+richard
+pattis

@@ -1,0 +1,18 @@
+replicators b0267 s3 
+b0267 s3 3c 6 replicator 
+replicators
+b0267
+s3
+b0267
+s3
+3c
+6
+replicator
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

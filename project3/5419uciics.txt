@@ -1,0 +1,26 @@
+index daliz 
+website 
+index
+daliz
+namelast
+modifiedsizedescriptionparent
+directory
+cs154
+12spr
+06
+jun
+2012
+21
+03
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

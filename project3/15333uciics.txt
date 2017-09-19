@@ -1,0 +1,28 @@
+index rickl courses cs 271 projects maze solver cpppolygon dfspolygoncomplete release 
+last modified 
+index
+rickl
+courses
+cs
+271
+projects
+maze
+solver
+cpppolygon
+dfspolygoncomplete
+release
+namelast
+modifiedsizedescriptionparent
+directory
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80

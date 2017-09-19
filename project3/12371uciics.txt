@@ -1,0 +1,27 @@
+learning a1 xor a3 
+
+learning
+a1
+xor
+a3
+predicting
+a1
+a2
+a3
+1
+assuming
+conditionally
+independence
+modelling
+dependence
+attributes
+previous
+slide
+next
+slide
+back
+first
+slide
+view
+graphic
+version

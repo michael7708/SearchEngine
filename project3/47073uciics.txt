@@ -1,0 +1,35 @@
+blinkers b345 s2 
+blinkers b345 s2 
+blinkers
+b345
+s2
+2
+gliders
+listed
+glider
+11117
+size
+8x12
+speed
+4
+orthogonalglider
+19272
+size
+14x32
+speed
+5
+orthogonal
+cellular
+automata
+rules
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

@@ -1,0 +1,13 @@
+org itr rescue dataguard filequeue 
+org itr rescue dataguard filequeue 
+org
+itr
+rescue
+dataguard
+filequeue
+classes
+filecontentqueue
+filemetadataqueue
+indexqueue
+multiplequeue
+queuemanager

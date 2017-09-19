@@ -1,0 +1,27 @@
+replicators b026 s12 
+b026 s12 2c 4 diagonal replicator 
+replicators
+b026
+s12
+b026
+s12
+several
+related
+rules
+diagonal
+replicator
+repeats
+period
+4
+moving
+diagonally
+speed
+2
+replicators
+cellular
+automata
+eppstein
+uci
+inf
+comp
+sci

@@ -1,0 +1,36 @@
+aristotle univ thessaloniki dept informatics 
+aristotle univ thessaloniki dept informatics 
+aristotle
+univ
+thessaloniki
+dept
+informatics
+thessaloniki
+54006
+greece
+http
+www
+csd
+auth
+gr
+affiliation
+yannis
+manolopoulosalexandros
+nanopouloseleni
+tousidou
+eppstein
+publications
+citation
+database
+organizations
+fano
+experimental
+web
+server
+eppstein
+school
+information
+computer
+science
+uc
+irvine

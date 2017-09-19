@@ -1,0 +1,18 @@
+tree processing 
+
+lectureindex
+introduction
+search
+trees
+searching
+insertion
+deletion
+methods
+traversals
+problem
+set
+course
+home
+page
+richard
+pattis

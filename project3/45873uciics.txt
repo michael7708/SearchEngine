@@ -1,0 +1,26 @@
+index develop wordmarks 
+size 
+index
+develop
+wordmarks
+namelast
+modifiedsizedescriptionparent
+directory
+brenschool
+27
+feb
+2013
+15
+00
+apache
+2
+2
+15
+centos
+server
+www
+ics
+uci
+edu
+port
+80
